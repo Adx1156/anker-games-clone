@@ -184,7 +184,7 @@ background-color: rgba(51, 48, 48, 0.77);
     position: relative;
 
     background-image:
-        url("assets/re4.jpg");
+        url("assets/re4.jpg.webp");
 
     background-size: cover;
     background-position: center;
@@ -202,16 +202,16 @@ background-color: rgba(51, 48, 48, 0.77);
 
 @keyframes slide {
     25%{
-        background-image: url(assets/re4.jpg);
+        background-image: url(assets/re4.jpg.webp);
     }
      50%{
-        background-image: url(re.jpj.webp);
+        background-image: url(assets/re.jpj.webp);
     }
      75%{
-        background-image: url(assets/re23.jpg);
+        background-image: url(assets/re23.jpg.webp);
     }
      100%{
-        background-image: url(assets/re4.jpg);
+        background-image: url(assets/re4.jpg.webp);
     }
 }
 
